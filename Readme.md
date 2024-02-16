@@ -20,21 +20,13 @@ Before running the application locally, ensure you have the following dependenci
 
 Follow these steps to run the application locally:
 
-1. Clone the repository:
-   ```sh
+Clone the repository:
    git clone <repository_url>
-Navigate to the project folder:
 
-sh
-Copy code
+Navigate to the project folder:
 cd <project_folder>
 Build the Docker images:
 
-sh
-Copy code
 docker-compose build
-Start the Docker containers:
 
-sh
-Copy code
 docker-compose up
