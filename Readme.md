@@ -4,6 +4,8 @@
 
 ![Credit Approval Architecture](https://github.com/yashasbharadwaj1/Credit-approval-system/assets/71028991/011cee36-e514-4107-93e9-34048bfba8f1)
 
+credits and reference :- https://saasitive.com/tutorial/django-celery-redis-postgres-docker-compose/
+
 ### Frameworks and Tools Used:
 - Django
 - Django REST Framework
